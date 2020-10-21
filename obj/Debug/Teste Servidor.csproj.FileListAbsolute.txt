@@ -1,0 +1,7 @@
+C:\1 - A\git\Programa\Teste Servidor\Teste Servidor\bin\Debug\Teste Servidor.exe
+C:\1 - A\git\Programa\Teste Servidor\Teste Servidor\bin\Debug\Teste Servidor.pdb
+C:\1 - A\git\Programa\Teste Servidor\Teste Servidor\obj\Debug\Teste Servidor.csprojResolveAssemblyReference.cache
+C:\1 - A\git\Programa\Teste Servidor\Teste Servidor\obj\Debug\Teste_Servidor.MainForm.resources
+C:\1 - A\git\Programa\Teste Servidor\Teste Servidor\obj\Debug\Teste Servidor.csproj.GenerateResource.Cache
+C:\1 - A\git\Programa\Teste Servidor\Teste Servidor\obj\Debug\Teste Servidor.exe
+C:\1 - A\git\Programa\Teste Servidor\Teste Servidor\obj\Debug\Teste Servidor.pdb
